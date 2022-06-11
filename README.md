@@ -1,2 +1,2 @@
 # uae-sportingroups
-ThE UAE’s Social sporting hub 
+The UAE’s Social sporting hub 
